@@ -27,19 +27,19 @@
 <h3>Output Images</h3>
 <img src="OutputImages/bicycle.bmp" alt="Bicycle" style="width:20%;height:20%;">
 <img src="OutputImages/motorcycle.bmp" alt="Motorcycle" style="width:20%;height:20%;">
-<img src="OutputImages/bicycle&motorcycle.bmp" alt="Hybrid 01" style="width:20%;height:20%;">
+<img src="OutputImages/bicycle.motorcycle.bmp" alt="Hybrid 01" style="width:20%;height:20%;">
 <img src="OutputImages/bird.bmp" alt="Bird" style="width:20%;height:20%;">
 <img src="OutputImages/plane.bmp" alt="Plane" style="width:20%;height:20%;">
-<img src="OutputImages/bird&plane.bmp" alt="Hybrid 02" style="width:20%;height:20%;">   	
+<img src="OutputImages/bird.plane.bmp" alt="Hybrid 02" style="width:20%;height:20%;">   	
 <img src="OutputImages/cat.bmp" alt="Cat" style="width:20%;height:20%;">
 <img src="OutputImages/dog.bmp" alt="Dog" style="width:20%;height:20%;">
-<img src="OutputImages/cat&dog.bmp" alt="Hybrid 03" style="width:20%;height:20%;">
+<img src="OutputImages/cat.dog.bmp" alt="Hybrid 03" style="width:20%;height:20%;">
 <img src="OutputImages/fish.bmp" alt="Fish" style="width:20%;height:20%;">
 <img src="OutputImages/submarine.bmp" alt="Submarine" style="width:20%;height:20%;">
-<img src="OutputImages/fish&submarine.bmp" alt="Hybrid 04" style="width:20%;height:20%;">
+<img src="OutputImages/fish.submarine.bmp" alt="Hybrid 04" style="width:20%;height:20%;">
 <img src="OutputImages/einstein.bmp" alt="Einstein" style="width:20%;height:20%;">  	  	
 <img src="OutputImages/marilyn.bmp" alt="Marilyn" style="width:20%;height:20%;">
-<img src="OutputImages/einstein&marilyn.bmp" alt="Hybrid 05" style="width:20%;height:20%;"> 
+<img src="OutputImages/einstein.marilyn.bmp" alt="Hybrid 05" style="width:20%;height:20%;"> 
 
 <h3>Process:</h3>
 <p>
